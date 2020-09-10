@@ -1,0 +1,17 @@
+{
+    "use-cscope": null,
+    "tag-dir": "./ac-php-tags",
+    "filter": {
+        "can-use-external-dir": false,
+        "php-file-ext-list": [
+            "php"
+        ],
+        "php-path-list": [
+            "./src",
+            "./vendor/guzzlehttp",
+            "./vendor/lazyjsonmapper/lazyjsonmapper/src",
+            "./vendor/psr"
+        ],
+        "php-path-list-without-subdir": []
+    }
+}
